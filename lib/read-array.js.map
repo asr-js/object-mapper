@@ -1,0 +1,1 @@
+{"version":3,"file":"read-array.js","sourceRoot":"","sources":["../src/read-array.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,QAAQ,CAAC;AAE1B;;;;;GAKG;AACH,MAAM,CAAC,OAAO,UAAU,SAAS,CAC/B,SAAgB,EAChB,cAA6B;IAE7B,OAAO,SAAS,CAAC,GAAG,CAAC,CAAC,KAAK,EAAE,EAAE,CAAC,IAAI,CAAC,KAAK,EAAE,cAAc,CAAC,CAAC,CAAC;AAC/D,CAAC"}

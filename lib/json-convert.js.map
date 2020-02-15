@@ -1,0 +1,1 @@
+{"version":3,"file":"json-convert.js","sourceRoot":"","sources":["../src/json-convert.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,iBAAiB,EAAE,MAAM,iBAAiB,CAAC;AAEjE,MAAM,WAAW,GAAgB,IAAI,WAAW,EAAE,CAAC;AAEnD,WAAW,CAAC,qBAAqB,GAAG,KAAK,CAAC;AAC1C,WAAW,CAAC,iBAAiB,GAAG,iBAAiB,CAAC,UAAU,CAAC;AAE7D,eAAe,WAAW,CAAC"}
